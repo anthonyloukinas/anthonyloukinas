@@ -1,4 +1,18 @@
-### Hi there 👋
+## Hi there 👋
+
+- 🔭 I’m a Senior Consultant at [Red Hat](https://redhat.com) in North America
+- 🌱 I’m currently working with AWS, Ansible, Satellite, Python, Terraform, VMWare
+
+### Connect with me 📬
+- Email: anthony.loukinas@gmail.com
+- <a href="https://linkedin.com/in/anthony-loukinas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tom-chen-1012" height="30" width="40" /></a>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyloukinas&show_icons=true&langs_count=30&layout=compact&include_all_commits=true&count_private=true&bg_color=232f3e&title_color=fff&text_color=fff&hide=jupyter%20notebook,css,html,hack,%23">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=anthonyloukinas&show_icons=true&line_height=20&count_private=true&bg_color=232f3e&title_color=ec912d&text_color=fff&icon_color=ec912d">
+</div>
+
 
 <!--
 **anthonyloukinas/anthonyloukinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
