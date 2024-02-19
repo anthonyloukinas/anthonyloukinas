@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m a Senior Consultant at [Red Hat](https://redhat.com) working primarily with Ansible Automation Platform.
-- 🌱 I’m currently working with AWS, Ansible, Satellite, Python, Terraform, VMWare.
+- 🔭 I’m a Architect at [Red Hat](https://redhat.com) working primarily with Ansible Automation Platform and OpenShift.
+- 🌱 I’m currently working with AWS, Ansible, Satellite, Python, Terraform, VMWare, OpenShift, JavaScript
 - 💬 Ask me anything Ansible or Automation related!
-- 🤔 I'm learning RTMP Video Streaming, AWS Service Catalog, and Raspberry PI tinkering.
+- 🤔 I'm learning React & React-native app development, AWS Service Catalog, and Raspberry PI tinkering.
 
 ### Connect with me 📬
 - Email: anthony.loukinas@gmail.com
